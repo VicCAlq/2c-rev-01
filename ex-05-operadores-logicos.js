@@ -61,7 +61,7 @@ export const resposta01 = 14 / 2 === 7
 export const resposta02 = "Abacate" === "Abacate"
 
 /* Questão 03 */
-export const resposta03 = 123 === "123"
+export const resposta03 = 123 == "123"
 
 /* Questão 04 */
 export const resposta04 = 70 === 70
