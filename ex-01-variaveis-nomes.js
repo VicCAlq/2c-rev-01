@@ -119,7 +119,7 @@ export let calculosMatematicos = true
 export const cama_Mesa_E_Banho = true
 
 /* Questão 18 */
-export let preçoDoProduto = true
+export let precoDoProduto = true
 
 /* Questão 19 */
 export const codigo_fonte = true
