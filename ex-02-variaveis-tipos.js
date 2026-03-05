@@ -20,9 +20,9 @@ em situações específicas e menos comuns:
                       usar o tipo "indefinido" diretamente, basta atribuir o valor undefined
 5. Tipo "function" - Valor que reprenta funções e classes.
 6. Tipo "Object" - Quaisquer outras estruturas em JavaScript são consideradas Objetos: Listas?
+                   Objetos. Tuplas? Objetos também. Nulo? Acredite ou não, objeto também.
 7. Tipo "bigint" - Para números grandes demais para o tipo "number"
 8. Tipo "symbol" - Valor que representa um identificador único para o programa.
-                   objetos. Tuplas? Objetos também. Nulo? Acredite ou não, objeto também.
 
 -------------------------------------------------------------------------------------------
 
@@ -37,62 +37,62 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "Waterflame - Race Around the World"
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = {nome: "ETE Cícero Dias", anoCriacao: 2006}
 
 /* Questão 03 */
 export let valorIndefinido
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = false
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres = 9 / 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao
+export let umaFuncao = () => null
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 100 / 5
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "NAVE Recife"
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = 15 + 5
 /* Questão 11 */
 
-export let valorFalso
+export let valorFalso = false
 /* Questão 12 */
 
-export let dezMaisQuatro
+export let dezMaisQuatro = 10 + 4
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "Brasil"
 
 /* Questão 14 */
-export let artistaFavorito
+export let artistaFavorito = "Toby Fox"
 
 /* Questão 15 */
-export let seteVezesSete
+export let seteVezesSete = 7 * 7
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
+export let umMaiorQueDoisVerdadeOuNao = 1 > 2
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita = "Pizza"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
+export let oCeuEhAzulVerdadeOuNao = 2 + "2" == "22"
 
 /* Questão 19 */
-export let objetoNulo
+export let objetoNulo = null
 
 /* Questão 20 */
-export let valorVerdadeiro
+export let valorVerdadeiro = true
