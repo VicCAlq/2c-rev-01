@@ -89,7 +89,7 @@ export let arquivoPrincipal = true
 export class ComodosDaCasa {}
 
 /* Questão 08 */
-export let $rodas = true
+export let rodas = true
 
 /* Questão 09 */
 export let _powerRangers = true
@@ -98,7 +98,7 @@ export let _powerRangers = true
 export let puroAco = true
 
 /* Questão 11 */
-export const $100reaisEmBarrasDeOuro = true
+export const reaisEmBarrasDeOuro = true
 
 /* Questão 12 */
 export const paginaInicial = true
