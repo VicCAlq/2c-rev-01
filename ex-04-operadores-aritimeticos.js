@@ -37,61 +37,61 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export const trintaENove = 44 ?? 10 ?? 5
+export const trintaENove = 44 - 10 + 5
 
 /* Questão 02 */
-export const centoESessentaEUm = (13 ?? 2) ?? 8
+export const centoESessentaEUm = (13 ** 2) - 8
 
 /* Questão 03 */
-export const trintaECinco = 7 ?? 5
+export const trintaECinco = 7 * 5
 
 /* Questão 04 */
-export const centoEVinteESeis = (22 ?? 6) ?? (24 ?? 4)
+export const centoEVinteESeis = (22 * 6) - 6 // 126
 
 /* Questão 05 */
-export const oitentaEQuatro = (200 ?? 4) ?? 34
+export const oitentaEQuatro = (200 / 4) + 34 // 84
 
 /* Questão 06 */
-export const sessentaEQuatro = 2 ?? (2 ?? 3)
+export const sessentaEQuatro = 2 ** 6 // 64
 
 /* Questão 07 */
-export const vinteETres = 18 ?? (33 ?? 7)
+export const vinteETres = 18 + (33 - 28) // 23
 
 /* Questão 08 */
-export const dezenove = 38 ?? 2
+export const dezenove = 38 / 2 // 19
 
 /* Questão 09 */
-export const centoETrinta = (41 ?? 3) ?? (21 ?? 3)
+export const centoETrinta = (41 * 3) + (21 - 14) // 130
 
 /* Questão 10 */
-export const quinze = 30 ?? 3 ?? 5
+export const quinze = 30 / 3 + 5 // 15
 
 /* Questão 11 */
-export const quarentaETres = 86 ?? (12 ?? 5)
+export const quarentaETres = 86 / 2 // 43
 
 /* Questão 12 */
-export const trinta = 6 ?? 5
+export const trinta = 6 * 5 // 30
 
 /* Questão 13 */
-export const sessentaETres = (125 ?? 5) ?? 38
+export const sessentaETres = (125 / 5) + 38 // 63
 
 /* Questão 14 */
-export const vinteEDois = 11 ?? 2
+export const vinteEDois = 11 * 2 // 22
 
 /* Questão 15 */
-export const quarentaEOito = (2 ?? 3) ?? 6
+export const quarentaEOito = (2 ** 3) * 6
 
 /* Questão 16 */
-export const trintaETres = 66 ?? 2
+export const trintaETres = 66 / 2
 
 /* Questão 17 */
-export const quarentaECinco = (3 ?? 2) ?? 5
+export const quarentaECinco = (3 ** 2) * 5
 
 /* Questão 18 */
-export const oitentaENove = (9 ?? 10) ?? (5 ?? 5)
+export const oitentaENove = (9 * 10) - (5 / 5) // 89
 
 /* Questão 19 */
-export const quarentaESeis = 23 ?? (7 ?? 5)
+export const quarentaESeis = 23 * 2 // 46
 
 /* Questão 20 */
-export const centoEOitentaEQuatro = 23 ?? (2 ?? 4)
+export const centoEOitentaEQuatro = 23 * (2 * 4) // 184
