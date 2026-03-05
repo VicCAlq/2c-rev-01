@@ -80,50 +80,50 @@ export let proximaEtapa = true
 export const dataEHorario = true
 
 /* Questão 05 */
-export const vídeoAula = true
+export const videoAula = true
 
 /* Questão 06 */
-export let arquivo_principal = true
+export let arquivoPrincipal = true
 
 /* Questão 07 */
-export class CômodosDaCasa {}
+export class ComodosDaCasa {}
 
 /* Questão 08 */
-export let $4rodas = true
+export let $rodas = true
 
 /* Questão 09 */
-export let _5PowerRangers = true
+export let _powerRangers = true
 
 /* Questão 10 */
-export let puro_Aço = true
+export let puroAco = true
 
 /* Questão 11 */
-export const $100reaisEmBarras_de_OURO = true
+export const $100reaisEmBarrasDeOuro = true
 
 /* Questão 12 */
-export const páginaInicial = true
+export const paginaInicial = true
 
 /* Questão 13 */
 export let _5patinhosForamPassear = true
 
 /* Questão 14 */
-export class $1besouro {}
+export class Besouro {}
 
 /* Questão 15 */
-export class Roupas_Juninas {}
+export class RoupasJuninas {}
 
 /* Questão 16 */
-export let cálculosMatemáticos = true
+export let calculosMatematicos = true
 
 /* Questão 17 */
-export const camaMesa_E_Banho = true
+export const camaMesaEBanho = true
 
 /* Questão 18 */
-export let preçoDOproduto = true
+export let precoDopProduto = true
 
 /* Questão 19 */
-export const código_fonte = true
+export const codigoFonte = true
 
 /* Questão 20 */
-export class Cabo_frio {}
+export class CaboFrio {}
 
