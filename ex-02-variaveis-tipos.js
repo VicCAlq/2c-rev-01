@@ -37,56 +37,56 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = "nVisceral"
+export let musicaFavorita
 
 /* Questão 02 */
-export let objetoQualquer = null
+export let objetoQualquer
 
 /* Questão 03 */
-export let valorIndefinido = undefined
+export let valorIndefinido
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao = false
+export let tartarugasVoamVerdadeOuNao
 
 /* Questão 05 */
-export let noveDivididoPorTres = 9/3
+export let noveDivididoPorTres
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao = false
+export let papagaiosFalamVerdadeOuNao
 
 /* Questão 07 */
-export let umaFuncao = function deb(){}
+export let umaFuncao
 
 /* Questão 08 */
-export let cemDivididoPorCinco = 100/5
+export let cemDivididoPorCinco
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "ciceroDias"
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = 15 + 5 
 /* Questão 11 */
 
-export let valorFalso
+export let valorFalso = false
 /* Questão 12 */
 
-export let dezMaisQuatro
+export let dezMaisQuatro = 10 + 4
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "pernambuco"
 
 /* Questão 14 */
-export let artistaFavorito
+export let artistaFavorito = "doja cat"
 
 /* Questão 15 */
-export let seteVezesSete
+export let seteVezesSete = 7 * 7
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
+export let umMaiorQueDoisVerdadeOuNao = 1 > 2
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita 
 
 /* Questão 18 */
 export let oCeuEhAzulVerdadeOuNao
@@ -96,3 +96,4 @@ export let objetoNulo
 
 /* Questão 20 */
 export let valorVerdadeiro
+
