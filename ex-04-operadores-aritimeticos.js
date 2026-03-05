@@ -37,13 +37,13 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export const trintaENove = 44 ?? 10 ?? 5
+export const trintaENove = 44 - 10 + 5
 
 /* Questão 02 */
-export const centoESessentaEUm = (13 ?? 2) ?? 8
+export const centoESessentaEUm = (13 ** 2) - 8
 
 /* Questão 03 */
-export const trintaECinco = 7 ?? 5
+export const trintaECinco = 7 * 5
 
 /* Questão 04 */
 export const centoEVinteESeis = (22 ?? 6) ?? (24 ?? 4)

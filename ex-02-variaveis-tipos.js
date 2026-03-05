@@ -56,45 +56,44 @@ export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
 export let umaFuncao = function aomossar(parmegiana){
-    console.log
 }
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = 20
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "Cícero Dias"
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = 20
 /* Questão 11 */
 
-export let valorFalso
+export let valorFalso = false
 /* Questão 12 */
 
-export let dezMaisQuatro
+export let dezMaisQuatro = 14
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "Pernambucano"
 
 /* Questão 14 */
-export let artistaFavorito
+export let artistaFavorito = "Thalles Roberto"
 
 /* Questão 15 */
-export let seteVezesSete
+export let seteVezesSete = 49
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
+export let umMaiorQueDoisVerdadeOuNao = false
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita = "Pudim"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
+export let oCeuEhAzulVerdadeOuNao = true
 
 /* Questão 19 */
-export let objetoNulo
+export let objetoNulo = null
 
 /* Questão 20 */
-export let valorVerdadeiro
+export let valorVerdadeiro = true
