@@ -74,7 +74,7 @@ export let funcaoImportante = true
 export class ClientesDoSalão {}
 
 /* Questão 03 */
-export let próximaEtapa = true
+export let proximaEtapa = true
 
 /* Questão 04 */
 export const dataEHorario = true
@@ -89,25 +89,25 @@ export let arquivoPrincipal = true
 export class ComodosDaCasa {}
 
 /* Questão 08 */
-export let $4Rodas = true
+export let rodas = true
 
 /* Questão 09 */
-export let $5PowerRangers = true
+export let powerRangers = true
 
 /* Questão 10 */
 export let puroAço = true
 
 /* Questão 11 */
-export const $100reaisEmBarrasDoOURO = true
+export const $100reaisEmBarrasDoOuro = true
 
 /* Questão 12 */
 export const paginaInicial = true
 
 /* Questão 13 */
-export let $5patinhosForamPassear = true
+export let patinhosForamPassear = true
 
 /* Questão 14 */
-export class $1besouro {}
+export class Besouro {}
 
 /* Questão 15 */
 export class RoupasJuninas {}
