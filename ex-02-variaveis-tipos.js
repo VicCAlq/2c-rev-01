@@ -37,19 +37,19 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = true
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = true
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = true 
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = true 
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres 
 
 /* Questão 06 */
 export let papagaiosFalamVerdadeOuNao
