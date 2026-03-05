@@ -68,16 +68,16 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let funçãoImportante = true
+export let funcaoImportante = true
 
 /* Questão 02 */
-export class clientes_do_salão {}
+export class clientesDoSalao {}
 
 /* Questão 03 */
-export let próximaEtapa = true
+export let proximaEtapa = true
 
 /* Questão 04 */
-export const data_e_horario = true
+export const dataEHorario = true
 
 /* Questão 05 */
 export const vídeoAula = true
