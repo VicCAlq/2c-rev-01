@@ -92,7 +92,7 @@ export class ComodosDaCasa {}
 export let rodas = true
 
 /* Questão 09 */
-export let _powerRangers = true
+export let powerRangers = true
 
 /* Questão 10 */
 export let puroAco = true
@@ -104,7 +104,7 @@ export const reaisEmBarrasDeOuro = true
 export const paginaInicial = true
 
 /* Questão 13 */
-export let _5patinhosForamPassear = true
+export let patinhosForamPassear = true
 
 /* Questão 14 */
 export class Besouro {}
