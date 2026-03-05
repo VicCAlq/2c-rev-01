@@ -162,19 +162,19 @@ export const resposta03 = false
 export const resposta04 = true
 
 /* Questão 05: jolyne enxerga bruno?*/
-export const resposta05 = undefined
+export const resposta05 = true
 
 /* Questão 06: speedwagon enxerga koichi?*/
-export const resposta06 = undefined
+export const resposta06 = false
 
 /* Questão 07: kars enxerga joseph?*/
-export const resposta07 = undefined
+export const resposta07 = true
 
 /* Questão 08: hermes enxerga smokey?*/
-export const resposta08 = undefined
+export const resposta08 = false
 
 /* Questão 09: lisaLisa enxerga giorno?*/
-export const resposta09 = undefined
+export const resposta09 = false
 
 /* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+export const resposta10 = true
