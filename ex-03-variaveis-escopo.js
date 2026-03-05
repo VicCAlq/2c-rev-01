@@ -168,13 +168,13 @@ export const resposta05 = true
 export const resposta06 = false
 
 /* Questão 07: kars enxerga joseph?*/
-export const resposta07 = true
+export const resposta07 = false
 
 /* Questão 08: hermes enxerga smokey?*/
-export const resposta08 = 
+export const resposta08 = false
 
 /* Questão 09: lisaLisa enxerga giorno?*/
-export const resposta09 = undefined
+export const resposta09 = false
 
 /* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+export const resposta10 = true
