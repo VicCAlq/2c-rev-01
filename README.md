@@ -98,10 +98,13 @@ let VAR_exemplo_02 = 55 /* Correto */
         - 20 do arquivo ex-04-operadores-aritimeticos.js
         - 10 do arquivo ex-05-operadores-logicos.js
 8.  Cada exercício vale um máximo de 2 pontos de um total de 10 para a atividade
-9.  A quantidade mínima de questões corretas para garantir os 2 pontos é de metade
-    da quantidade de questões de cada exercício:
-        - 10 questões corretas para exercícios com 20 questões
-        - 5 questões corretas para exercícios com 10 questões
+9.  A quantidade mínima de questões corretas para garantir os 2 pontos 
+    para cada exercício é de:
+        - 8 questões corretas para o ex-01-variaveis-nomes.js
+        - 8 questões corretas para o ex-02-variaveis-tipos.js
+        - 4 questões corretas para o ex-03-variaveis-escopo.js
+        - 8 questões corretas para o ex-04-operadores-aritimeticos.js
+        - 4 questões corretas para o ex-05-operadores-logicos.js
 10. Pontos excedentes (a mais) em um exercício não contam para os outros
 11. Pontos a mais apenas substituem a pontuação de questões erradas do mesmo exercício
 

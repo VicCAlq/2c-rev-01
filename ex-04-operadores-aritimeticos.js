@@ -33,7 +33,7 @@ Nas questões abaixo, substitua os "??" pela operação aritimética
 necessária para que o resultado da equação seja igual ao número
 nomeado na variável.
 
-MÍNIMO DE RESPOSTAS NECESSÁRIAS: 10
+MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */

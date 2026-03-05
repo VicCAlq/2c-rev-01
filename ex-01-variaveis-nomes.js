@@ -64,7 +64,7 @@ Detalhes:
 4. O valor da variável (o que vem depois do =) DEVE ser mantido do jeito que está
 5. Assuma que nenhuma das variáaveis abaixo deve ser oculta
 
-MÍNIMO DE RESPOSTAS NECESSÁRIAS: 10
+MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */

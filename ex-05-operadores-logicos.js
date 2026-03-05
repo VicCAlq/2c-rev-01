@@ -51,7 +51,7 @@ Falso E Falso:              false && false (false)
 Modifique os "??" abaixo com os operadores lógicos adequados
 de modo que a resposta final seja SEMPRE true
 
-MÍNIMO DE RESPOSTAS NECESSÁRIAS: 5
+MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
 
 /* Questão 01 */

@@ -33,7 +33,7 @@ Se o nome da variável é um número, o valor dela deve ser um número. Por aí 
 Lembrete: "Atribuir um valor a uma variável" é simplesmente colocar um "=" (sem áspas)
 depois do nome da variável, e logo depois do "=" colocar o valor desejado.
 
-MÍNIMO DE RESPOSTAS NECESSÁRIAS: 10
+MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */

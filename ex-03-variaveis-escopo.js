@@ -146,7 +146,7 @@ Dica: Ignore o que vem depois do "=". Apenas coloquei para
 o código não ficar indicando que as variáveis não foram
 utilizadas.
 
-MÍNIMO DE RESPOSTAS NECESSÁRIAS: 5
+MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
 
 /* Questão 01: avdol enxerga jotaro?*/
