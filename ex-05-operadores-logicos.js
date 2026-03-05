@@ -55,7 +55,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
 
 /* Questão 01 */
-export const resposta01 = 14 / 2 ?? 3
+export const resposta01 = 14 / 2 > 3
 
 /* Questão 02 */
 export const resposta02 = "Abacate" ?? "Abacate"
