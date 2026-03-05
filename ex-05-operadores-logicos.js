@@ -67,7 +67,7 @@ export const resposta03 = 123 === "123"
 export const resposta04 = 70 != 80
 
 /* Questão 05 */
-export const resposta05 = null ?? null
+export const resposta05 = null == null
 
 /* Questão 06 */
 export const resposta06 = 456 ?? undefined
