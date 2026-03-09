@@ -149,32 +149,32 @@ utilizadas.
 MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
 
-/* Questão 01: avdol enxerga jotaro?*/
-export const resposta01 = undefined
+/* Questão 01 */
+export const resposta01 = true
 
-/* Questão 02: kira enxerga kakyoin?*/
-export const resposta02 = undefined
+/* Questão 02 */
+export const resposta02 = false
 
-/* Questão 03: wham enxerga polnareff?*/
-export const resposta03 = undefined
+/* Questão 03 */
+export const resposta03 = false
 
-/* Questão 04: emporio enxerga bruno?*/
-export const resposta04 = undefined
+/* Questão 04 */
+export const resposta04 = true
 
-/* Questão 05: jolyne enxerga bruno?*/
-export const resposta05 = undefined
+/* Questão 05 */
+export const resposta05 = false
 
-/* Questão 06: speedwagon enxerga koichi?*/
-export const resposta06 = undefined
+/* Questão 06 */
+export const resposta06 = false
 
-/* Questão 07: kars enxerga joseph?*/
-export const resposta07 = undefined
+/* Questão 07 */
+export const resposta07 = false
 
-/* Questão 08: hermes enxerga smokey?*/
-export const resposta08 = undefined
+/* Questão 08 */
+export const resposta08 = false
 
-/* Questão 09: lisaLisa enxerga giorno?*/
-export const resposta09 = undefined
+/* Questão 09 */
+export const resposta09 = false
 
-/* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+/* Questão 10 */
+export const resposta10 = true
