@@ -89,7 +89,7 @@ export let arquivoPrincipal = true
 export class ComodosDaCasa {}
 
 /* Questão 08 */
-export let $4rodas = true
+export let quatroRodas = true
 
 /* Questão 09 */
 export let _5PowerRangers = true
