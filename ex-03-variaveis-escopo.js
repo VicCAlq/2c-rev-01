@@ -75,7 +75,7 @@ entre diversos escopos para responder as questões no final:
 let l = console.log
 
 {
-  let jonathan = ""; l(jonathan)
+  let jonathan = ""; l(jonathan).
   {
     let erina = ""; l(erina)
     let anasui = ""; l(anasui)
