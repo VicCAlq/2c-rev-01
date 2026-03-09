@@ -3,8 +3,7 @@
 
 ### My files ###
 # Test files
-exercicios.test.js
-.ex.test.js
+*.test.js
 
 ### Node ###
 # Logs
@@ -355,3 +354,4 @@ buck-out/
 
 # End of https://www.toptal.com/developers/gitignore/api/react,reactnative,node
 
+*.test.js
