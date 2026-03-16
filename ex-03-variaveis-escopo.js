@@ -149,32 +149,42 @@ utilizadas.
 MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
 
-/* Questão 01: avdol enxerga jotaro?*/
-export const resposta01 = undefined
+/* Questão 01: avdol enxerga jotaro? */
+export const resposta01 = true
+// avdol está dentro do escopo de jotaro
 
-/* Questão 02: kira enxerga kakyoin?*/
-export const resposta02 = undefined
+/* Questão 02: kira enxerga kakyoin? */
+export const resposta02 = false
+// kakyoin está em um escopo interno de kira
 
-/* Questão 03: wham enxerga polnareff?*/
-export const resposta03 = undefined
+/* Questão 03: wham enxerga polnareff? */
+export const resposta03 = false
+// polnareff está dentro do escopo de kars
 
-/* Questão 04: emporio enxerga bruno?*/
-export const resposta04 = undefined
+/* Questão 04: emporio enxerga bruno? */
+export const resposta04 = true
+// emporio está dentro do escopo de bruno
 
-/* Questão 05: jolyne enxerga bruno?*/
-export const resposta05 = undefined
+/* Questão 05: jolyne enxerga bruno? */
+export const resposta05 = true
+// jolyne está dentro do escopo de bruno
 
-/* Questão 06: speedwagon enxerga koichi?*/
-export const resposta06 = undefined
+/* Questão 06: speedwagon enxerga koichi? */
+export const resposta06 = false
+// koichi está em outro bloco completamente diferente
 
-/* Questão 07: kars enxerga joseph?*/
-export const resposta07 = undefined
+/* Questão 07: kars enxerga joseph? */
+export const resposta07 = true
+// joseph está em um escopo externo a kars
 
-/* Questão 08: hermes enxerga smokey?*/
-export const resposta08 = undefined
+/* Questão 08: hermes enxerga smokey? */
+export const resposta08 = false
+// smokey está em outro bloco
 
-/* Questão 09: lisaLisa enxerga giorno?*/
-export const resposta09 = undefined
+/* Questão 09: lisaLisa enxerga giorno? */
+export const resposta09 = false
+// giorno está em escopo interno de lisaLisa
 
-/* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+/* Questão 10: giorno enxerga mista? */
+export const resposta10 = true
+// giorno está dentro do escopo de mista
