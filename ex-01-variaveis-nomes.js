@@ -74,22 +74,22 @@ export let funcaoImportante = true
 export class ClientesDoSalao {}
 
 /* Questão 03 */
-export let próximaEtapa = true
+export let proximaEtapa = true
 
 /* Questão 04 */
-export const DataEHorario = true
+export const dataEHorario = true
 
 /* Questão 05 */
-export const VídeoAula = true
+export const videoAula = true
 
 /* Questão 06 */
 export let arquivoPrincipal = true
 
 /* Questão 07 */
-export class CômodosDaCasa {}
+export class ComodosDaCasa {}
 
 /* Questão 08 */
-export let $4Rodas = true
+export let quatroRodas = true
 
 /* Questão 09 */
 export let powerRangers = true
@@ -98,13 +98,13 @@ export let powerRangers = true
 export let puroAco = true
 
 /* Questão 11 */
-export const reaisEmBarrasdeOuro = true
+export const reaisEmBarrasDeOuro = true
 
 /* Questão 12 */
-export const PaginaInicial = true
+export const paginaInicial = true
 
 /* Questão 13 */
-export let $5patinhosForamPassear = true
+export let cincoPatinhosForamPassear = true
 
 /* Questão 14 */
 export class Besouro {}
@@ -116,7 +116,7 @@ export class RoupasJuninas {}
 export let calculosMatematicos = true
 
 /* Questão 17 */
-export const CamaMesaEBanho = true
+export const camaMesaEBanho = true
 
 /* Questão 18 */
 export let precoDoProduto = true
