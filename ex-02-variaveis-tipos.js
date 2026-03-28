@@ -40,7 +40,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let musicaFavorita = "Dacing in The Street"
 
 /* Questão 02 */
-export let objetoQualquer = object
+export let objetoQualquer = {}
 
 /* Questão 03 */
 export let valorIndefinido = undefined
@@ -55,7 +55,7 @@ export let noveDivididoPorTres = 3
 export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao = function
+export let umaFuncao = function (){}
 
 /* Questão 08 */
 export let cemDivididoPorCinco = 20
@@ -89,10 +89,10 @@ export let umMaiorQueDoisVerdadeOuNao = false
 export let comidaFavorita = "lasanha"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = false
+export let oCeuEhAzulVerdadeOuNao = true
 
 /* Questão 19 */
-export let objetoNulo = symbol
+export let objetoNulo = null
 
 /* Questão 20 */
 export let valorVerdadeiro = true
